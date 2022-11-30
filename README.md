@@ -5,4 +5,4 @@ admin login :-http://localhost:8000/admin/login/?next=/admin/
 ,client :-http://localhost:8000/api/v1/client/
 
 for database used dbsqlite and
-for RESTapi used insomnia to get,post,put,delete data 
+for RESTapi used insomnia to get,post,put,delete jsondata 
